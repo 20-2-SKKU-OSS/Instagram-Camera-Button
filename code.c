@@ -14,7 +14,7 @@ int main()
 
 	printf("Korean : %d\nEnglish : %d\nMath : %d\n", kor, eng, math);
 	printf("Sum : %d\n", sum);
-	printf("The End");
+	printf("The End\n");
 
 	return 0;
 }
