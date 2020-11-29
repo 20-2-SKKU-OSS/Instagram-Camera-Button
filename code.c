@@ -2,7 +2,7 @@
 
 int main()
 {
-	int korean, english, math;
+	int kor, english, math;
 	int sum = 0;
 
 	math = 80;
