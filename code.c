@@ -10,7 +10,7 @@ int main()
 	kor = 90;
 	science= 70;
 	sum = math + english + kor + science;
-
+	printf("Hello World\n");
 	printf("This is a program that can print a report card.\n");
 
 	printf("Grades are as follow: Science: %d\nKorean : %d\nEnglish : %d\nMath : %d\n", science, kor, english, math);
