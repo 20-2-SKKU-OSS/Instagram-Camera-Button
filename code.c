@@ -14,7 +14,7 @@ int main()
 
 	printf("Grades are as follow:   Korean : %d\nEnglish : %d\nMath : %d\n", korean, english, math);
 	printf("Sum : %d\n", sum);
-	printf("Average: %f\n",(korean+english+math)/3.0);
+	printf("Average: %f\n\n",(korean+english+math)/3.0);
 	printf("The End\n");
 
 	return 0;
